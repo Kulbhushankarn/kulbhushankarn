@@ -46,48 +46,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,dotnet" />
 
 ### 🛢 Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,visualstudio,azure" />
 
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kulbhushankarn&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kulbhushankarn&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulbhushankarn&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kulbhushankarn&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kulbhushankarn/Kulbhushankarn/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| 📦 InventoryPro | ASP.NET MVC, SQL | Inventory & Billing SaaS |
-| 🌐 POS System | React, API | Web POS System |
-| 📊 Dashboard | MVC, Bootstrap | Admin Panel |
 
 ---
 
