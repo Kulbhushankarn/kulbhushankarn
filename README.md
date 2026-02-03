@@ -39,11 +39,11 @@
 
 <p align="center">
 
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs" />
+### 💻 Languages & Core Web  
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,cs" />
 
-### 🌐 Frameworks  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,dotnet" />
+### 🌐 Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=bootstrap,materialui,react,dotnet" />
 
 ### 🛢 Databases & Tools  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,visualstudio,azure" />
